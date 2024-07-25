@@ -1,0 +1,6 @@
+>[!question] 
+>Is warthog 5 mines 1 nuke with lasers or 20mms specifically a good idea competitively-wise?
+
+**EtaN:** Unless you can maintain map control consistently, I'd say sacrificing mines for silos is never a good idea that said, you seemed to do fine with that during our games, and I'd imagine you could find success with either of those as support 20mm are nice because they deal high damage to doors and shut down the entire front of a base; having two or three of them can begin to chew through lightly-defended weapons, as well firebeams are nice because they prevent aa from damaging your missile and can penetrate through defenses to destroy aa; the threshold for beginning to do real damage with them is higher, but they combo more effectively with a plasma than a cannon does with 20mm you could also consider forgoing t2 entirely in favor of armory and workshop support add shotguns to kill gunners, emp to bait aa (and shut down it down), or smoke to temporarily block it add mortars to apply an alternate angle of pressure and necessitate the expansion and extension of gunners and buzzsaws to 
+
+tl;dr: yes

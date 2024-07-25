@@ -1,0 +1,1 @@
+I would benefit a lot from a shotgun to defend from the howitzer shells

@@ -1,0 +1,1 @@
+**Counterweight box:** 60 long plank into crossbraced box.
